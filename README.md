@@ -18,7 +18,7 @@ This has been tested with JQuery versions 1.9.1 and above and with bootstrap 2.3
 
 
 #Example
-Link: https://github.com/rash-mi/switch/blob/master/examples/switch-example.html
+[Link to Demo](http://rash-mi.github.io/switch/examples/switch-example.html)
 
 
 #Using foundations
